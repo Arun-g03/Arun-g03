@@ -7,6 +7,7 @@
 - A multi-agent reinforcement learning project for my dissertation 🤖
 - An automated stock trading system using Python & PyTorch 📈
 - A procedural maze type dungeon game using Unreal Engine + multiplayer support
+- https://circuit-lab.co.uk/
 
 🛠️ Tech Stack:
 - **Languages:** Python, C++, Kotlin, JavaScript
