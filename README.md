@@ -4,9 +4,10 @@
 
 🎮 Currently working on:
 
-- A multi-agent reinforcement learning project for my dissertation 🤖
+- A porfolio page with a variety of demos
 - An automated stock trading system using Python & PyTorch 📈
 - A procedural maze type dungeon game using Unreal Engine + multiplayer support
+- A local Ollama based chat interface 
 - https://circuit-lab.co.uk/
 
 🛠️ Tech Stack:
@@ -17,7 +18,7 @@
 💡 Interests:
 - Game AI & mechanics design
 - Financial markets & algo trading
-- Multi-agent systems & strategy simulation
+- Machine Learning
 - Learning C++ but perfecting Python
 
 <!-- GitHub Stats -->
