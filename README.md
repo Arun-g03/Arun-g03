@@ -36,11 +36,3 @@
 </picture>
 
 
-
-### 🧠 So you know I'm serious about my work:
-
-<p align="center">
-  <img src="image.png" width="700" alt="Factorio Banner" />
-  <br/>
-  <em>⏱️ 1,165.4 hours | 🏆 76/88 achievements | Factory must grow.</em>
-</p>
