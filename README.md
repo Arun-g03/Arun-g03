@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-🎓 I'm a Computer Science undergrad 
+🎓 I'm a Bachelor of Computer Science Graduate
 
 🎮 Currently working on:
 
