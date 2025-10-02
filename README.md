@@ -8,7 +8,7 @@
 - An automated stock trading system using Python & PyTorch 📈
 - A procedural maze type dungeon game using Unreal Engine + multiplayer support
 - A local Ollama based chat interface 
-- https://circuit-lab.co.uk/
+- https://arung.co.uk/ - my website
 
 🛠️ Tech Stack:
 - **Languages:** Python, C++, Kotlin, JavaScript
